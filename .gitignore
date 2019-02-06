@@ -1,4 +1,6 @@
-db/*.sqlite3
-tmp/*
-log/*
-Gemfile.lock
+/db/*.sqlite3
+/tmp/*
+/log/*
+/Gemfile
+/Gemfile.lock
+/.byebug_history
